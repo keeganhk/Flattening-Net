@@ -1,0 +1,4 @@
+# ninja log v5
+0	11946	1686811544052941348	/public/sdc/zhang_20/my_home/420b_research/Flattening-Net/codebase/CD/build/temp.linux-x86_64-cpython-39/chamferdist/knn_cpu.o	20ad546e246494cc
+0	12474	1686811544580942319	/public/sdc/zhang_20/my_home/420b_research/Flattening-Net/codebase/CD/build/temp.linux-x86_64-cpython-39/chamferdist/ext.o	4765372f2fbca138
+0	45508	1686811577593003091	/public/sdc/zhang_20/my_home/420b_research/Flattening-Net/codebase/CD/build/temp.linux-x86_64-cpython-39/chamferdist/knn.o	f3845c0a45d512b4

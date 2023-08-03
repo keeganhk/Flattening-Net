@@ -8,7 +8,11 @@ This is the official implementation of **[[Flattening-Net](https://arxiv.org/pdf
 
 
 ### Instruction
-The pre-processed datasets can be downloaded from [here](https://drive.google.com/drive/folders/1UYMwVram1uePkyINRaIPn7tX_FSpeeaC?usp=sharing), which should be put in the ```data``` folder. The scripts for training Flattening-Net as well as a demo script for point cloud parameterization are provided in ```scripts/para_scripts```. Some experiments of downstream task evaluation are conducted in ```scripts/task_evaluations```. Pre-trained model parameters are stored in ```ckpt```.
+The pre-processed datasets can be downloaded from [here](https://drive.google.com/drive/folders/1UYMwVram1uePkyINRaIPn7tX_FSpeeaC?usp=sharing), which should be put in the ```data``` folder.
+
+The scripts for training Flattening-Net as well as a demo script for point cloud parameterization are provided in ```scripts/para_scripts```.
+
+Some experiments of downstream task evaluation are conducted in ```scripts/task_evaluations```. Pre-trained model parameters are stored in ```ckpt```.
 
 
 ### Citation

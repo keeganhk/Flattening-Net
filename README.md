@@ -16,6 +16,9 @@ This is the official implementation of **[[Flattening-Net](https://arxiv.org/pdf
 
 - The pre-trained model parameters (for Flattening-Net and different task networks) are stored in ```ckpt```.
 
+### News
+- We extended the regular representation paradigm to dynamic point cloud sequences in **[SPCV](https://github.com/ZENGYIMING-EAMON/SPCV) (TPAMI 2024)**.
+- We further investigated real-sense surface parameterization via the unsupervised neural architecture of **[Flatten Anything Model (FAM)](https://github.com/keeganhk/FlattenAnything)**.
 
 ### Citation
 If you find our work useful in your research, please consider citing:

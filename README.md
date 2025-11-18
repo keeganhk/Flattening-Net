@@ -8,7 +8,7 @@ This is the official implementation of **[[Flattening-Net](https://arxiv.org/pdf
 
 
 ### Instruction
-- The pre-processed datasets can be downloaded from [here](https://pan.baidu.com/s/17Kw836gPef54d_4S0DH3mg?pwd=hbh1) (password: hbh1), which should be put in the ```data``` folder.
+- The pre-processed datasets can be downloaded from [here](https://pan.baidu.com/s/1fynHji053ryxdHf4dHquPg?pwd=1kvk) (password: 1kvk), which should be put in the ```data``` folder.
 
 - The scripts for training Flattening-Net and a demo script for PGI creation are provided in ```scripts/para_scripts```.
 
@@ -31,3 +31,4 @@ If you find our work useful in your research, please consider citing:
 	}
 
  
+
